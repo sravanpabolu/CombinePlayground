@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Combine_Concept_Ex'/>
+        <page name='SimplePipeline_Just'/>
+        <page name='Map_TryMap'/>
+        <page name='Sink_Assign'/>
+        <page name='NetworkRequest'/>
+        <page name='NetworkRequestWithErrors'/>
+        <page name='NetworkRequestCustomErrors'/>
+        <page name='Future'/>
+        <page name='Async'/>
+        <page name='Operators'/>
+        <page name='Error_Handling_Catch'/>
+        <page name='Error_Handling_Retry'/>
+        <page name='Error_Handling_Flatmap'/>
+        <page name='Error_Handling_AlternateURL'/>
+        <page name='Zip'/>
+        <page name='CombineLatest'/>
+        <page name='MergeMany'/>
+    </pages>
+</playground>
